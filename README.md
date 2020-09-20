@@ -2,7 +2,7 @@
 
 Installation:
 
-- Download "Project1 Final" code from projects [Github](https://github.com/Nixirn/CST-305-Proj.1) 
+- Download "project1final" code from projects [Github](https://github.com/Nixirn/CST-305-Proj.1) 
 - Open the code using PyCharm from the file explorer 
 - Run code
 
