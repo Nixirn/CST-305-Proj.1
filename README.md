@@ -1,8 +1,8 @@
-## CST-305 Project 1 Instructions ## 
+## CST-305 Project 5 Instructions ## 
 
 Installation:
 
-- Download "project1final" code from projects [Github](https://github.com/Nixirn/CST-305-Proj.1) 
+- Download "Project5.py" from the zip file.  
 - Open the code using PyCharm from the file explorer 
 - Run code
 
@@ -10,8 +10,8 @@ Running Code:
 
 - Open the code
 - Add a new configuration to allow the code too run 
-- Run code
+- run 
 
 Requirements: 
 
-- Code needs the following libraries to be installed: numpy, scipy and matplotlib
+- Code needs the following libraries to be installed: numpy and matpltlib
